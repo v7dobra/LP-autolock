@@ -1,0 +1,26 @@
+#main-page-wrapper {
+	height: 100%;
+	background-color: black;
+	padding: 2em 0;
+
+	.site-content-container {
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		background: darkolivegreen;
+			.grid-system {
+			width: 100%;
+			margin-bottom: 0;
+				&.column-1 {
+			 margin: 0 4% 0 0;
+			 float: left;
+			 width: 48%;
+			 height: 200px;
+			 background-color: #e2e2e2;
+                }
+
+		}
+
+
+
+}
